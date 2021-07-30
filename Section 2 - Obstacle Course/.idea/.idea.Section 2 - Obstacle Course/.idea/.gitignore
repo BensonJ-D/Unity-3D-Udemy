@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Section 2 - Obstacle Course.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Unity\Complete C# Unity 3D Udemy\Section 2 - Obstacle Course\.idea\.idea.Section 2 - Obstacle Course\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
